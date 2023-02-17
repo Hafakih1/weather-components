@@ -7,10 +7,6 @@
 - Node Version: 12.18.3
 - Default Port: 8000
 
-## Application Demo:
-
-![](https://hrcdn.net/s3_pub/istreet-assets/aiYyB8bIMufQ00lpPduPbQ/weather-component.gif)
-
 ## Functionality Requirements
 
 - An array of objects is passed as a prop to the component, where each object is a weather record for a single city. The object has 4 properties:
